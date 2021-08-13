@@ -1,0 +1,259 @@
+#bran {
+    text-shadow: 3px 3px 3px green;
+    font-family: cursive;
+}
+.dropdown-item{
+    color:white;
+    font-weight:bold;
+    
+}
+
+.nav ,.dropdown-menu{
+    background-color: rgb(1, 82, 1);
+    color: black;
+}
+
+.fbk {
+    box-shadow: 5px 5px 5px yellow;
+}
+h2
+{
+    color:red;
+    background-color:#bfbebd;
+     width: max-content;
+     padding: 0 1rem;
+}
+
+.ins {
+    font-weight: bolder;
+    width: 90%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid;
+    background-color: transparent;
+}
+
+h1 {
+    font-size: 4rem;
+    color: green;
+    font-family: cursive;
+    width: max-content;  /*recent added by me*/
+}
+
+.jumbotron {
+    width: 100%;
+    min-height: 50%;
+    background-image: linear-gradient(rgba(94, 202, 108, 0.048), rgba(63, 61, 61, 0.048)), url("../foods/mgp.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    margin: 3px;
+    margin-left: 7px;
+    color: black;
+    background-color: white;
+    font-weight: bold;
+}
+
+.as {
+    color: white;
+    background-color: rgba(10, 83, 10, 0.829);
+    margin: 2px;
+    margin-left: 4px;
+    font-weight: bold;
+}
+
+.act {
+    color: rgba(10, 83, 10, 0.829);
+    background-color:  rgb(231, 174, 68);
+
+    box-shadow: 1px 1px 1px 1px white  ;  
+      font-weight: bold;
+}
+
+a:hover {
+   
+    font-weight: bold;
+    color: black;
+   
+}
+
+#qu1 {
+    color: white;
+    text-shadow: 6px 6px 16px rgb(2, 10, 0);
+    background-color: rgba(0, 0, 0, 0.116);
+}
+
+#qq {
+    background-color: rgba(43, 42, 42, 0.116);
+}
+
+.sd {
+    min-height: 35%;
+}
+
+#qu {
+    color: white;
+}
+
+fieldset {
+    border: 3px soild rgb(13, 141, 41);
+}
+
+#ps {
+    color: rgb(3, 3, 102);
+    background-color: rgb(250, 235, 101);
+    margin-top: 5px;
+    font-weight: bold italic;
+}
+
+.pp::first-line {
+    margin-left: 10px;
+}
+
+.pp::first-letter {
+    font-size: 1.9rem;
+    color: rgb(164, 76, 247);
+}
+
+.pp {
+    color: navy;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: justify;
+    background-color: antiquewhite;
+    padding: 10px;
+    border: 4px dotted rgb(240, 240, 124);
+    border-bottom-right-radius: 19px;
+    border-radius: 6px;
+
+}
+
+#ir {
+    border-radius: 45%;
+    border: 2px solid black;
+}
+
+.im {
+    width: 70%;
+    height: 70%;
+}
+
+#fot {
+    background-color: rgba(0, 0, 0, 0.911);
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.rhs {
+    background-color: white;
+    color: blue;
+}
+
+hr.one {
+    color: rgb(18, 19, 18);
+    height: 5px;
+}
+
+legend {
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 1px rgb(32, 236, 42);
+}
+
+fieldset {
+    border: 3px soild rgb(13, 141, 41);
+}
+.sdd1 {
+    font-size: 5rem;
+    text-shadow: 4px 5px 7px green;
+    background-repeat: no-repeat;
+}
+
+.ml3 {
+    font-weight: 900;
+    font-size: 3.5em;
+}
+.navbar-item:hover .dropdown-menu 
+{
+    background-color: rgba(66, 66, 66, 0.74);
+
+         display : block;
+         color: white;
+}
+.dropdown-menu a
+{
+    color: white;
+}
+
+
+.modaltitle{
+	
+    background-color :   rgb(207, 190, 157);
+    color:white;
+    
+}
+.modal-body
+{
+    background-color: white;
+}
+
+#formbox
+{
+    margin-left:29%; 
+    width:max-content;
+}
+#no3
+{
+    width:100%;
+    padding: 1rem;
+    justify-content: center;
+}
+.form1
+{
+    background-color: white;
+    border: 5px solid;
+    border-right: none;
+    border-bottom: none;
+    border-color: rgba(10, 83, 10, 0.829);
+color: black;  
+box-shadow: 5px 5px 5px 5px rgb(1, 82, 1);;
+
+}
+.form1 input ,textarea
+{
+    background-color: rgba(233, 201, 72, 0.2);
+    border: none;
+    border-bottom: solid;
+    border-color: rgba(10, 83, 10, 0.829);
+}
+.form1 input[type="file"] , input[type="submit"], input[type="reset"]
+{
+    border: none;
+   
+}
+.form1 input[type="submit"] , input[type="reset"]
+{
+    background-color: green;
+    margin-bottom: 1rem;
+
+}
+.form1  input[type="reset"]
+{
+    background-color: red;
+    margin-bottom: 1rem;
+
+}
+.hotel
+{
+    margin-left : 2rem;
+margin-bottom:24px;
+background-color: azure;
+}
+dummy
+{
+    background-color:  rgba(184, 178, 178, 0.432)
+}
